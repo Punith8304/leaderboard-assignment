@@ -1,5 +1,5 @@
 import express from "express";
-import { getRankListIds, updateScore, getLeaderboard } from "../controllers/leaderboardController.js";
+import { updateScore, getLeaderboard } from "../controllers/leaderboardController.js";
 
 
 
